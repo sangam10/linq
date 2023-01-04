@@ -1,0 +1,15 @@
+/home/sagnam/Desktop/advancec#/linq/bin/Debug/net7.0/linq
+/home/sagnam/Desktop/advancec#/linq/bin/Debug/net7.0/linq.deps.json
+/home/sagnam/Desktop/advancec#/linq/bin/Debug/net7.0/linq.runtimeconfig.json
+/home/sagnam/Desktop/advancec#/linq/bin/Debug/net7.0/linq.dll
+/home/sagnam/Desktop/advancec#/linq/bin/Debug/net7.0/linq.pdb
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.csproj.AssemblyReference.cache
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.AssemblyInfoInputs.cache
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.AssemblyInfo.cs
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.csproj.CoreCompileInputs.cache
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.dll
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/refint/linq.dll
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.pdb
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/linq.genruntimeconfig.cache
+/home/sagnam/Desktop/advancec#/linq/obj/Debug/net7.0/ref/linq.dll
